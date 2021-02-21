@@ -1,0 +1,27 @@
+###############################################################
+bài 1: giới thiệu giao diện cad
+Bài 2:thiết lập trước khi vẽ
+bài 3: layer dim text,lệnh LTS,LE
+bài 4:vẽ line pline miline
+bài 5:các lệnh vẽ hình học (HCN,đa giác,tròn,elip,cung tròn-arc) dimfit : chỉnh sửa dim của đường tròn
+bài 6:lệnh move ,copy
+bài 7:lệnh scale-AL,extend,trim,extrim"cắt hết bên ngoài hình vuông"
+bài 8:lệnh offset,matchpop"MA",array
+bài 9:lệnh chamfer,fillet,DIV,Zoom
+bài 10:hatch (asoc trong bảng op=>select) HE sửa hatch
+bài 11:DIM,DCO
+bài 12:Đổi lệnh tắt(express->tools->command)
+bài 13:làm tỷ lệ trên model(2 cách)
+bài 14: làm tỷ lệ trên layout(2 cách)
+bài 15:thiết lập bản vẽ và in thôi kkk
+Nâng cao nè
+bài 16: quản lý bản vẽ với sheet set
+bài 17:Block ,xclip->hiển thị 1 phần trong block,PE-nối thành polyline
+bài 18:biến Attribute trong block
+bài 19:yến FI lọc riêng 1 đối tượng trong bản vẽ
+bài 20:GROUP,Find-tìm mà sửa nhiều cái haha
+bài 21:Dim ,Text,Hatch,Block tự động kkk annotative thôi hehe
+bài 22:Thêm và chỉnh sửa ảnh
+bài 23:layon,layoff,laymcur,layiso-hiện mk layer mk chọn
+bài 24:xref in tự động cả đống bản vẽ,Dataextraction thôi bỏ
+*****************TEMPLATE*************************************

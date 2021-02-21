@@ -1,0 +1,36 @@
+op:cấu hình màu các thứ             NHÁY CHUOOTH TRAI 2 LẦ VÀO TỪ HOME SẼ TRIWR VỀ GIAO DIỆN
+os:cấu hình bắt điểm
+un:số chữ sau dấu phẩy
+ucsicon chọn Noorigin cố định trục
+Ctr 1 : Hiện protiers
+DIV chia đoạn thẳng
+LTS các đoạn đứt độ dài
+DCO dim liên tuc
+LE tạo ra đường để kí hiệu
+AL là scale tất cả đối tượng về 1 tỉ lệ mk chọn: B1-chọn đối tượng cần scale
+                                                B2 chon 1 điểm .....
+DIMSCALE sau đó nhập tỉ lệ vô rùi dim:cái ni hay
+DIMLFAC rùi chọn tỉ lệ (1/2) sau đó dim bth
+--------
+dim trong lay out thì cú để dim tỉ lệ 1
+-bấm dim rùi bấm tiếp dimlfac chọn tỉ lệ vô rùi dim tiếp or đánh "v" chọn vô khung đó là nó tựu dim theo tỉ lệ
+-layon layoff để bật tắt 1 layer,d như cái khung nhìn
+--chọn 1 đối tượng nhấn LAYISO sẽ hiện mk đối tuwongj đó lên
+   FI chọn tất cả đối tượng trong bnar vẽ mà mk muốn(vd DIM)
+--block và xclip sẽ đi với nhau.sau khi tạo block thì chọn xclip và chọn vùng muốn xuất hiện,phần còn lại sẽ mất,nếu k thấy cái khung thì nhấn lại xlip.. và chon số 1 
+--PE NỐI CÁC ĐƯỜNG LẠI THÀNH 1 POLY
+-tab format chọn pontsize để chỉnh chấm chia tỉ lệ 
+-tạo block xong tạo biến attribute(ATT)
+--DIM tự động thì bỏ trỏ chuột vào trong khung nhìn trước khi gõ D
+--DIM dílfac bỏ ra ngoài
+--LỆNH chuyển layer laymcur
+--AP để thêm lish .thêm 1 lần thì chọn bth,thêm vĩnh viễn thì vào curr..
+- MV 	 rồi bấm o rồi chạn hình vẽ
+
+C1:  scale khung dung dimscale
+C2: Scale hình dùng dimlfac
+C3: lấy lại tỷ lệ từ model sang layout
+C4: làm trên model : + biến asocciatip biến scale  (Nhược điểm nó không mất đi)
+		     + biến asocciatip và anotaytip
+    làm trên layout: + biến asocciatip và biến scale (Phải bắt đúng hình chứ không là bị sai)
+		     + dim dimlfac v  
