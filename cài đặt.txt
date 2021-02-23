@@ -26,11 +26,12 @@ dim trong lay out thì cú để dim tỉ lệ 1
 --LỆNH chuyển layer laymcur
 --AP để thêm lish .thêm 1 lần thì chọn bth,thêm vĩnh viễn thì vào curr..
 - MV 	 rồi bấm o rồi chạn hình vẽ
-
+	Model
 C1:  scale khung dung dimscale
 C2: Scale hình dùng dimlfac
+	Layout
 C3: lấy lại tỷ lệ từ model sang layout
-C4: làm trên model : + biến asocciatip biến scale  (Nhược điểm nó không mất đi)
+C4: làm trên model : + biến asocciatip biến scale  (Nhược điểm nó không mất đi, di chuyển hình dễ bị nhảy dim)
 		     + biến asocciatip và anotaytip
-    làm trên layout: + biến asocciatip và biến scale (Phải bắt đúng hình chứ không là bị sai)
+    làm trên layout: + biến asocciatip và biến scale (Phải bắt đúng hình chứ không là bị sai, di chuyển hình dễ bị nhảy dim)
 		     + dim dimlfac v  
